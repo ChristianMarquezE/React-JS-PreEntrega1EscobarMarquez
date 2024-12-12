@@ -19,6 +19,7 @@ function SocialIcons(props) {
       <a class="instagram-icon" href="mailto:jorregor@udd.cl" target="_blank">
         <i class="fa-regular fa-envelope"></i>
       </a>
+      <a class="instagram-icon" href="#"><i class="fa-solid fa-cart-shopping"></i></a>
     </div>
   );
 }

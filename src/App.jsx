@@ -6,6 +6,7 @@ import MenuPlegable from './components/MenuPlegable';
 import Header from './components/Header';
 import HeaderTitle from './components/HeaderTitle';
 import SocialIcons from './components/SocialIcons';
+import Greatings from './components/Greatings';
 import './App.css'
 
 function App() {
@@ -40,6 +41,7 @@ function App() {
         </Nav>
         <SocialIcons />
       </Header>
+      <Greatings>Web de ropa de diseñador</Greatings>
     </>
   )
 }
