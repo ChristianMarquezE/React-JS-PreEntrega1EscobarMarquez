@@ -31,3 +31,14 @@
   .social-icons2.show {
     display: flex; /* Mostrar cuando se activa */
   }
+  .contacto-link {
+    font-weight: normal;
+    font-size: 1;
+  }
+  .montserrat-light {
+    font-family: 'Montserrat', serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+  }
+  

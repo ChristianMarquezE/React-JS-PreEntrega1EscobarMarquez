@@ -1,4 +1,5 @@
 import './SocialIcons.css';
+import "./Nav.css";
 function SocialIcons(props) {
 
 
